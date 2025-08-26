@@ -17,3 +17,9 @@ This project is often used after studying the "shapes" project. It
 adds a class to those ones in "shapes". That class (named "Picture")
 uses the shapes to draw a picture. It can be used to experiment with 
 modifying source code.
+
+********Answers**********
+
+14: By calling the other classes to appear on the canvas.
+
+15: 
