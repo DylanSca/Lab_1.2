@@ -8,6 +8,7 @@
  * 
  * @author  Michael Kšlling and David J. Barnes
  * @version 7.0
+ * grdhth
  */
 public class Picture
 {
